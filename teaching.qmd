@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+<!-- One line per course. To link a PDF of a syllabus, put the PDF in this folder and
+     write [Syllabus](pos2041-syllabus.pdf); Quarto copies linked files into docs/. -->
+
+I was a teaching assistant during both undergrad and law school.
+
+
+
+## Teaching Assistant
+
+###Brigham Young University
+American Heritage, September 2013-April 2016 
+Statistics for Economists, April-June 2015
+
+
+###Sandra Day O'Connor College of Law at Arizona State University, Phoenix, AZ
+Criminal Law, Jan-April 2018
+
